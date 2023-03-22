@@ -1,5 +1,8 @@
 """This program will take in a string and check if the string has 3 consecutive characters"""
 
+#Noah Jensen
+#March 21, 2022
+#CS 1300-01
 
 def takeinput():
     """This function takes in the input from the user and checks if it contains characters."""
